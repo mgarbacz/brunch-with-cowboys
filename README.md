@@ -1,18 +1,22 @@
 # Brunch with Sassy Backbone
 
-## Languages
-- [CoffeeScript](http://coffeescript.org/)
-- [Sass](http://sass-lang.com/)
-- [Underscore.js](http://underscorejs.org/)
+This is still a work in progress, my first attempt at a skeleton for brunch
+Brunch skeleton including Backbone.js, CoffeeScript, SASS, and Bootstrap
 
 ## Features
-- [Backbone.js](http://backbonejs.org/)
-- [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+- Client-side MVC: [Backbone.js](http://backbonejs.org/)
+- Language: [CoffeeScript](http://coffeescript.org/)
+- Styling: [Sass](http://sass-lang.com/)
+- Templating: [Underscore.js](http://underscorejs.org/)
+- Front-end framework: [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+
 
 ## Getting started
     brunch new <appname> --skeleton git@github.com:mgarbacz/brunch-with-sassy-backbone.git
     brunch w -s
+
 or
+
     git clone git@github.com:mgarbacz/brunch-with-sassy-backbone.git
     npm install
     brunch w -s
