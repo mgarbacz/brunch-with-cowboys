@@ -1,6 +1,7 @@
 # Brunch with Sassy Backbone
 
 This is still a work in progress, my first attempt at a skeleton for brunch
+
 Brunch skeleton including Backbone.js, CoffeeScript, SASS, and Bootstrap
 
 ## Features
