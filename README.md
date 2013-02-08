@@ -7,9 +7,8 @@ Brunch skeleton including Backbone.js, CoffeeScript, SASS, and Bootstrap
 - Client-side MVC: [Backbone.js](http://backbonejs.org/)
 - Language: [CoffeeScript](http://coffeescript.org/)
 - Styling: [Sass](http://sass-lang.com/)
-- Templating: [Underscore.js](http://underscorejs.org/)
+- Templating: [Underscore.js](http://underscorejs.org/#template)
 - Front-end framework: [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
-
 
 ## Getting started
     brunch new <appname> --skeleton git@github.com:mgarbacz/brunch-with-sassy-backbone.git
