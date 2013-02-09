@@ -21,3 +21,6 @@ or
     git clone git@github.com:mgarbacz/brunch-with-sassy-backbone.git
     npm install
     brunch w -s
+
+## LICENSE
+[MIT License] (LICENSE.md)
