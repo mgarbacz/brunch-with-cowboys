@@ -16,7 +16,12 @@ app skeleton with a solid backbone. Testing framework for T/BDD-ers included.
 
 ## Getting started
 
+<<<<<<< HEAD
     brunch new <appname> --skeleton git@github.com:mgarbacz/brunch-with-cowboys.git
+=======
+    brunch new <appname> --skeleton git@github.com:mgarbacz/brunch-with-cowboys.
+git
+>>>>>>> a60e617cca33dc43cb912356384e50b9a85f2062
     brunch w -s
 
 or
