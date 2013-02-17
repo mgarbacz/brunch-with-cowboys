@@ -2,6 +2,7 @@ exports.config =
   # See http://brunch.readthedocs.org/en/latest/config.html for documentation.
   paths:
     public: 'public'
+    test: 'test'
   files:
     javascripts:
       joinTo:
@@ -21,7 +22,7 @@ exports.config =
         'stylesheets/app.css': /^(app|vendor)/
         'test/stylesheets/test.css': /^test/
       order:
-        before: []
+        before: [ 'vendor/styles/reset.css' ]
         after: []
 
     templates:
