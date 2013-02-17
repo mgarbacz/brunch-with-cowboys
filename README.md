@@ -21,7 +21,7 @@ app skeleton with a solid backbone. Testing framework for T/BDD-ers included.
 
 or
 
-    git clone git@github.com:mgarbacz/brunch-with-sassy-backbone.git
+    git clone git@github.com:mgarbacz/brunch-with-cowboys.git
     npm install
     brunch w -s
 
