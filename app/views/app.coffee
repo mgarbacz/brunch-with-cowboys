@@ -7,10 +7,8 @@ module.exports = class AppView extends Backbone.View
     @render()
 
   render: ->
-    dust.compile template, 'app'
-    dust.render 'app', {}, (error, output) ->
-      console.log error
-      console.log output
-      $(@.el).html output
-      console.log @el
+    dust.loadSource template
+    dust.render 'app', {}, (error, output) =>
+      @$el.html output if not error
+      
       return @
