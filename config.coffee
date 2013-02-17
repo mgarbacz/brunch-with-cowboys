@@ -19,7 +19,7 @@ exports.config =
         ]
 
     stylesheets:
-      defaultExtension: 'sass'
+      defaultExtension: 'styl'
       joinTo:
         'stylesheets/app.css': /^(app|vendor)/
         'test/stylesheets/test.css': /^test/
@@ -28,6 +28,6 @@ exports.config =
         after: []
 
     templates:
-      defaultExtension: 'jst'
+      defaultExtension: 'hbs'
       joinTo: 'javascripts/app.js': /^app\/views\/templates/
   framework: 'backbone'
