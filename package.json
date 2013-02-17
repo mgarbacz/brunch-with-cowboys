@@ -20,9 +20,9 @@
     "coffee-script-brunch": ">= 1.0 < 1.5",
 
 	  "css-brunch": ">= 1.0 < 1.5",
-    "stylus-brunch": ">= 1.0 < 1.5",
+    "sass-brunch": ">= 1.0 < 1.5",
 
-    "handlebars-brunch": ">= 1.0 < 1.5",
+    "dustjs-brunch": "git://github.com/sandosh/dustjs-brunch.git",
 
 	  "uglify-js-brunch": ">= 1.0 < 1.5",
 	  "clean-css-brunch": ">= 1.0 < 1.5",
@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "mocha": "1.8.x",
-    "chai": "1.5.x"
+    "chai": "1.5.x",
+    "sinon": "1.5.x"
   }
 }
