@@ -1,3 +1,5 @@
+AppView = require 'views/app'
+
 module.exports = class Application extends Backbone.Router
   routes:
     '': 'index'
@@ -9,4 +11,5 @@ module.exports = class Application extends Backbone.Router
       root: ''
 
   index: ->
-    $('body').append '<h1>It works!</h1>'
+    appView = new AppView()
+    $('body').append appView.el
