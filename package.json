@@ -22,7 +22,7 @@
     "css-brunch": ">= 1.0 < 1.5",
     "sass-brunch": ">= 1.0 < 1.5",
 
-    "dustjs-brunch": "git://github.com/sandosh/dustjs-brunch.git",
+    "dustjs-linkedin-brunch": "git://github.com/mgarbacz/dustjs-linkedin-brunch.git",
 
     "uglify-js-brunch": ">= 1.0 < 1.5",
     "clean-css-brunch": ">= 1.0 < 1.5",
