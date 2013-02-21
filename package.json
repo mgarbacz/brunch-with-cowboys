@@ -16,20 +16,20 @@
     "test": "brunch test"
   },
   "dependencies": {
-    "javascript-brunch": ">= 1.0 < 1.5",
-    "coffee-script-brunch": ">= 1.0 < 1.5",
+    "javascript-brunch": ">= 1.0 <= 1.5",
+    "coffee-script-brunch": ">= 1.0 <= 1.5",
 
-    "css-brunch": ">= 1.0 < 1.5",
-    "sass-brunch": ">= 1.0 < 1.5",
+    "css-brunch": ">= 1.0 <= 1.5",
+    "sass-brunch": ">= 1.0 <= 1.5",
 
-    "dustjs-linkedin-brunch": "git://github.com/mgarbacz/dustjs-linkedin-brunch.git",
+    "dustjs-linkedin-brunch": ">= 1.0 <= 1.5",
 
-    "uglify-js-brunch": ">= 1.0 < 1.5",
-    "clean-css-brunch": ">= 1.0 < 1.5",
+    "uglify-js-brunch": ">= 1.0 <= 1.5",
+    "clean-css-brunch": ">= 1.0 <= 1.5",
 
-    "coffeelint-brunch": ">= 1.0 < 1.5",
+    "coffeelint-brunch": ">= 1.0 <= 1.5",
 
-    "auto-reload-brunch": ">= 1.0 < 1.5"
+    "auto-reload-brunch": ">= 1.0 <= 1.5"
   },
   "devDependencies": {
     "mocha": "1.8.x",
