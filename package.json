@@ -16,23 +16,23 @@
     "test": "brunch test"
   },
   "dependencies": {
-    "javascript-brunch": ">= 1.0 < 1.6",
-    "coffee-script-brunch": ">= 1.0 < 1.6",
+    "javascript-brunch": ">= 1.0 < 1.7",
+    "coffee-script-brunch": ">= 1.0 < 1.7",
 
-    "css-brunch": ">= 1.0 < 1.6",
-    "sass-brunch": ">= 1.0 < 1.6",
+    "css-brunch": ">= 1.0 < 1.7",
+    "sass-brunch": ">= 1.0 < 1.7",
 
-    "dustjs-linkedin-brunch": ">= 1.0 < 1.6",
+    "dustjs-linkedin-brunch": ">= 1.0 < 1.7",
 
-    "uglify-js-brunch": ">= 1.0 < 1.6",
-    "clean-css-brunch": ">= 1.0 < 1.6",
+    "uglify-js-brunch": ">= 1.0 < 1.7",
+    "clean-css-brunch": ">= 1.0 < 1.7",
 
-    "coffeelint-brunch": ">= 1.0 < 1.6",
+    "coffeelint-brunch": ">= 1.0 < 1.7",
 
-    "auto-reload-brunch": ">= 1.0 < 1.6"
+    "auto-reload-brunch": ">= 1.0 < 1.7"
   },
   "devDependencies": {
-    "mocha": "1.8.x",
+    "mocha": "1.9.x",
     "chai": "1.5.x",
     "sinon": "1.5.x"
   }
