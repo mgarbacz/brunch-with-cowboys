@@ -10,7 +10,7 @@ app skeleton with a solid backbone. Testing framework for T/BDD-ers included.
     - Styling: [Sass](http://sass-lang.com/)
     - Templating: [Dust](http://akdubya.github.com/dustjs)
 - Testing: 
-    - Framework: [Mocha](http://visionmedia.github.com/mocha/)
+    - Framework: [Mocha](http://mochajs.org/)
     - Assertion library: [Chai](http://chaijs.com/)
     - Spies, stubs, and mocks: [Sinon](http://sinonjs.org)
 
