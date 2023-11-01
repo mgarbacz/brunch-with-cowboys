@@ -1,3 +1,5 @@
+_Brunch and dustjs are no longer maintained, this project was archived November 1st, 2023._
+
 # Brunch with Cowboys
 
 Brunch with Cowboys is a dusty, sassy, coffee-fueled [Brunch](http://brunch.io/)
